@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divijkumar J. Rana 
 - 👀 I’m interested to build my carrier in Full Stack Development
 - 🌱 I’m currently learning MERN
-- 📫 How to reach me : you van mail on:- 22cp039bvm@gmail.com
+- 📫 How to reach me : you can mail me on:- 22cp039bvm@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
